@@ -2,9 +2,9 @@
 
 I'm a Technical PM, Content Strategist, and author. I help developers become better content creators; here's how:
 
-- 📬[A monthly developer content newsletter](http://bit.ly/devcontentdigest)
-- 📖[eBooks with guided exercises and worksheets that teach the foundations of content creation](www.developersguidetocontent.com)
-- 📝[Original blog posts full of developer content tips](www.stephaniemorillo.co/blog)
+- 📬[ A monthly developer content newsletter](http://bit.ly/devcontentdigest)
+- 📖[ eBooks with guided exercises and worksheets that teach the foundations of content creation](www.developersguidetocontent.com)
+- 📝[ Original blog posts full of developer content tips](www.stephaniemorillo.co/blog)
 
 
 I publish resource lists called "Pocket Lists" here on GitHub:
