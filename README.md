@@ -2,8 +2,8 @@
 
 I'm a Technical PM, Content Strategist, and author. I publish:
 
+- 📖 [eBooks with guided exercises and worksheets that teach the foundations of content creation for devs](www.developersguidetocontent.com)
 - 📬 [A monthly developer content newsletter](http://bit.ly/devcontentdigest)
-- 📖 [eBooks with guided exercises and worksheets that teach the foundations of content creation](www.developersguidetocontent.com)
 - 📝 [Original blog posts full of developer content tips](www.stephaniemorillo.co/blog)
 
 
