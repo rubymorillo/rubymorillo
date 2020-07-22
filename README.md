@@ -1,4 +1,4 @@
-## Hi, I'm Stephanie👋🏽
+# Hola, I'm Stephanie👋🏽
 
 I'm a Technical PM, Content Strategist, and author. I publish:
 
