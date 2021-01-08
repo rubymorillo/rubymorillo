@@ -3,9 +3,7 @@
 I'm a Senior PM, Content Strategist, and author. I publish:
 
 - 📖 [eBooks with guided exercises and worksheets that teach the foundations of content creation for devs](https://www.stephaniemorillo.co/books)
-- 📬 [A monthly developer content newsletter](https://www.stephaniemorillo.co/newsletter)
 - 📝 [Original blog posts full of developer content tips](https://www.stephaniemorillo.co/blog)
-
 
 I also publish resource lists called **"Pocket Lists"** here on GitHub:
 
