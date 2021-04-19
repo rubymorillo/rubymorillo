@@ -14,4 +14,4 @@ I also publish resource lists called **"Pocket Lists"** here on GitHub:
 - 📌 [The Pocket Writer Job Board List](https://github.com/rubymorillo/pocket-writer-job-boards-list/)
 
 
-💫 Find these resources helpful? [**You can support my work on Ko-Fi.**](www.ko-fi.com/stephaniemorillo.com)
+💫 Find these resources helpful? [**Consider becoming a GitHub Sponsor!**](https://www.github.com/sponsors/rubymorillo)
