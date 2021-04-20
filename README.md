@@ -1,6 +1,6 @@
 # Hola, I'm Stephanie👋🏽
 
-I'm a Senior PM, Content Strategist, and author. I publish:
+I'm a Senior PM, Content Strategist, and author. I want to help developers become better content creators and marketers, and I like sharing what I know with the wider developer community. I publish:
 
 - 📖 [eBooks with guided exercises and worksheets that teach the foundations of content creation for devs](https://www.stephaniemorillo.co/books)
 - 📝 [Original blog posts full of developer content tips](https://www.stephaniemorillo.co/blog)
