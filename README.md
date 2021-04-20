@@ -12,7 +12,7 @@ I also publish resource lists called **"Pocket Lists"** here on GitHub:
 - 📌 [The Pocket Scrum Self-Study Guide](https://github.com/rubymorillo/pocket-scrum-self-study-list)
 - 📌 [The Pocket Technical Writing List](https://github.com/rubymorillo/pocket-tech-writing-list)
 - 📌 [The Pocket Writer Job Board List](https://github.com/rubymorillo/pocket-writer-job-boards-list/)
-- 📌 [The Pocket Marketing Tech List](https://github.com/rubymorillo/pocket-marketing-tech-list)
+- 🆕 [The Pocket Marketing Tech List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 
 
 💫 Find these resources helpful? [**Consider becoming a GitHub Sponsor!**](https://www.github.com/sponsors/rubymorillo)
