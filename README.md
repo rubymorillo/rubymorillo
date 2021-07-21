@@ -15,7 +15,7 @@ I also publish resource lists called **"Pocket Lists"** here on GitHub:
 - 🆕 [The Pocket Marketing Tech List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 
 ## What I'm Working on Now
-- I'm hosting a class in June on SEO audits for developers. Perfect for any and all content creator devs. [Join us!](https://www.stephaniemorillo.co/seo)
+- I released an on-demand class on SEO for developers. Perfect for any and all content creator devs. [Learn more!](https://www.stephaniemorillo.co/seo)
 - I delivered a talk called "Marketing Tactics for Software Developers" full of info and tips, which you can [watch exclusively on egghead.io.](https://egghead.io/talks/egghead-marketing-tactics-for-software-developers)
 
 
