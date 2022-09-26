@@ -1,8 +1,7 @@
 # Hola, I'm Stephanie👋🏽
 
-I'm a Senior PM, Content Strategist, and author. I want to help developers become better content creators and marketers, and I like sharing what I know with the wider developer community. I publish:
+I'm a Principal PM, Content Strategist, and author. I want to help developers become better content creators and marketers, and I like sharing what I know with the wider developer community. I publish:
 
-- 📖 [eBooks with guided exercises and worksheets that teach the foundations of content creation for devs](https://www.stephaniemorillo.co/books)
 - 📝 [Original blog posts full of developer content tips](https://www.stephaniemorillo.co/blog)
 
 I also publish resource lists called **"Pocket Lists"** here on GitHub:
@@ -15,7 +14,6 @@ I also publish resource lists called **"Pocket Lists"** here on GitHub:
 - 🆕 [The Pocket Marketing Tech List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 
 ## What I'm Working on Now
-- I released an on-demand class on SEO for developers. Perfect for any and all content creator devs. [Learn more!](https://www.stephaniemorillo.co/seo)
 - I delivered a talk called "Marketing Tactics for Software Developers" full of info and tips, which you can [watch exclusively on egghead.io.](https://egghead.io/talks/egghead-marketing-tactics-for-software-developers)
 
 
