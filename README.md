@@ -19,4 +19,3 @@ I also publish resource lists called **"Pocket Lists"** here on GitHub:
 - I delivered a talk called "Marketing Tactics for Software Developers" full of info and tips, which you can [watch exclusively on egghead.io.](https://egghead.io/talks/egghead-marketing-tactics-for-software-developers)
 
 
-💫 Find these resources helpful? [**Consider becoming a GitHub Sponsor!**](https://www.github.com/sponsors/rubymorillo)
